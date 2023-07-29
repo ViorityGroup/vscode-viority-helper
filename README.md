@@ -34,7 +34,7 @@
 	</p>
 </div>
 
-<h1><strong class="Header">Viority Helper</strong></h11>
+<h1><strong class="Header">Viority Helper</strong></h1>
 
 ### **🚀 Supercharge Your Viority Product Implementations with Viority Helper!**
 
