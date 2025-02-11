@@ -42,8 +42,6 @@ Don't miss the chance to revolutionize your Viority product implementations. Emb
 
 - **💡 Viority-Helper: IntelliSense Snippets**: Elevate your coding productivity with Viority Helper's intelligent IntelliSense snippets, offering auto-completion and quick access to various commands and functionalities for seamless Viority product implementations.
 
-<img class="IntelliSenseImg" src="https://s12.gifyu.com/images/ScEFN.gif">
-
 - **📖 Viority-Helper: Open the official Docs**: Instantly access the comprehensive and up-to-date official documentation for Viority Helper, providing you with detailed insights and usage instructions.
 
 - **❤️ Viority-Helper: About this Extension**: Stay informed with essential information about Viority Helper, including the version, author details, and a brief but informative extension description.
@@ -54,17 +52,3 @@ Don't miss the chance to revolutionize your Viority product implementations. Emb
 - **Creator**: [⭐ Website](https://tuncion.de) [⚙️ GitHub](https://github.com/Tuncion)
 - **Discord**: [📖 Discord Server](https://discord.gg/323HfHyGW4)
 - **Repository**: [📂 GitHub Repository](https://github.com/ViorityGroup/vscode-viority-helper)
-
-<style>
-	/* Some styling for web browser */
-	
-	/* IntelliSense Img */
-	.IntelliSenseImg {
-		width: 1000px;
-		margin-left: 40px;
-		transition: transform 0.5s ease-in-out;
-	}
-	.IntelliSenseImg:hover {
-		transform: scale(1.01) rotate(1deg)
-	}
-</style>
